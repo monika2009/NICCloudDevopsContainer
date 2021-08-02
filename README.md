@@ -44,7 +44,7 @@ Kubernetes, popularly known as K8s, is an open-source system for automating depl
 
 **How Kubernetes helps**
 
-K8s helps in managing containerized workloads and services, which facilitates both declarative configuration and automation. It provides features that facilitate agile, continuous development, integration and delivery. The K8s Key features are:
+K8s helps in managing containerized workloads and services, which facilitates both declarative configuration and automation. It provides features that facilitate agile, continuous development, integration and delivery. The K8s Key features are-
 
 - **Service discovery and load balancing**: Kubernetes can expose a container using the DNS name or using their own IP address. If traffic to a container is high, Kubernetes is able to load balance and distribute the network traffic so that the deployment is stable.
 - **Storage orchestration**: Kubernetes allows you to automatically mount a storage system of your choice, such as local storages, public cloud providers, and more.
