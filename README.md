@@ -20,6 +20,12 @@ A container is a standard unit of software that packages up code and all its dep
 
 Containers are supported in Linux, Windows, and other modern operating systems. A container can run  anything from small software or a micro service to large applications. 
 
+#### What is Kubernetes
+
+Kubernetes, popularly known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications. Kubernetes distributes containerized applications across a cluster of machines. Kubernetes adds distributed computing features on top of containers such as load balancing, autoscaling, self-healing, rollout and roll back features etc. 
+
+#### Docker and kubernetes are related
+
 **How Dockers helps**
 
 - Docker provides the ability to package and run an application in a loosely isolated environment called a container.
@@ -35,12 +41,6 @@ Containers are supported in Linux, Windows, and other modern operating systems. 
 - Docker helps in dynamically managing workloads, scaling up or tearing down applications and services as business needs dictate, in near real time.
 
 - In the long run, docker provides a viable, cost-effective alternative to hypervisor-based virtual machines, so you can use more of your compute capacity to achieve your business goals.
-
-#### Docker and kubernetes are related
-
-#### What is Kubernetes
-
-Kubernetes, popularly known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications. Kubernetes distributes containerized applications across a cluster of machines. Kubernetes adds distributed computing features on top of containers such as load balancing, autoscaling, self-healing, rollout and roll back features etc. 
 
 **How Kubernetes helps**
 
